@@ -22,8 +22,6 @@
       "title": "Siltama",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3j9_rrfpfLmoveEzzTMUKhaHMAH0RA0Oh_9F7_bTR_A&s",
       "ingredients": [
-        "guruch",
-        "sabzi",
         "zira",
         "go'sht",
         "yog'",
@@ -31,7 +29,7 @@
         "tuz",
         "suv"
       ],
-      "cookingTime": "60 minutes",
+      "cookingTime": "120 minutes",
       "method": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati vel nihil tenetur rerum eos architecto delectus suscipit adipisci aut ut porro consequatur ipsum error voluptate facere sequi dicta, at sit nobis inventore sapiente placeat possimus! Id, libero. Ullam et architecto facilis magnam nobis odit repellat quam, impedit veniam tempore. Sapiente!"
     },
     {
@@ -39,16 +37,12 @@
       "title": "shashlik",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtF_peohYRFpxXNHCZQNpY0D_kmiMl_3K0r6gAj4Kh6Q&s",
       "ingredients": [
-        "guruch",
-        "sabzi",
-        "zira",
+         "zira",
         "go'sht",
-        "yog'",
-        "piyoz",
-        "tuz",
-        "suv"
+          "tuz"
+        
       ],
-      "cookingTime": "60 minutes",
+      "cookingTime": "20 minutes",
       "method": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati vel nihil tenetur rerum eos architecto delectus suscipit adipisci aut ut porro consequatur ipsum error voluptate facere sequi dicta, at sit nobis inventore sapiente placeat possimus! Id, libero. Ullam et architecto facilis magnam nobis odit repellat quam, impedit veniam tempore. Sapiente!"
     }
   ]

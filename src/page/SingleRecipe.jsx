@@ -18,9 +18,23 @@ function SingleRecipe() {
     
   return (
     <div>
-      {recipie && <div>
-        <img src={recipie.image} alt="" className="w-full h-96 rounded object-cover" />
-        </div>}
+      {recipie && (
+        <div>
+          <img
+            src={recipie.image}
+            alt=""
+            className="w-full h-96 rounded object-cover mb-5"
+          />
+          <h1 className="mb-5"> Nomi: {recipie.title}</h1>
+          <p className="flex gap-5 mb-5"> Mahsulotlar:{recipie.ingredients.map((item) => {
+            return(
+              <span key={item}>{item}</span>
+            )
+          })}</p>
+          <p className="mb-5"> Vaqt: {recipie.cookingTime}</p>
+           <p>{recipie.method}</p>
+        </div>
+      )}
     </div>
   );
 }
